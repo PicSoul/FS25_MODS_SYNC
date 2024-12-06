@@ -1,3 +1,6 @@
+![#f03c15]WARNING, DOWNLOADING MODS FROM UNKOWN OR UNTRUSTED SOURCES IS NOT RECOMMEND!`#f03c15`
+This program does not care if the mod/file is safe or not it will download and extract the .zip files so be sure you trust where you are getting your mods from.
+
 # FS25 MODS SYNC 🚜✨  
 
 **Keep Your Mods in Sync, Seamlessly!**  

@@ -1,5 +1,4 @@
-@@ WARNING, DOWNLOADING MODS FROM UNKNOWN OR UNTRUSTED SOURCES IS NOT RECOMMENDED! (and bold)@@
-
+# ⚠️⚠️ WARNING, DOWNLOADING MODS FROM UNKNOWN OR UNTRUSTED SOURCES IS NOT RECOMMENDED! ⚠️⚠️
 This program does not care if the mod/file is safe or not it will download and extract the .zip files so be sure you trust where you are getting your mods from.
 
 # FS25 MODS SYNC 🚜✨  

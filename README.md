@@ -27,7 +27,7 @@
 3. FS25 MODS SYNC downloads and updates your mods automatically, ensuring your setup matches the server every time.  
 
 ## 🏁 Download and Run  
-1. **Download** FS25 MODS SYNC from the [official release page.](https://github.com/PicSoul/FS25_MODS_SYNC/releases)  
+1. **Download** the latest release of FS25 MODS SYNC from the [official release page.](https://github.com/PicSoul/FS25_MODS_SYNC/releases/latest)
 2. **Run** the program—no installation required!  
 3. Enter your desired **URL** and **mod folder location**.  
 4. Click **Download and Extract** and let the program do the rest!  

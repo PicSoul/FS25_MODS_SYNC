@@ -1,5 +1,6 @@
-# ⚠️⚠️ WARNING, DOWNLOADING MODS FROM UNKNOWN OR UNTRUSTED SOURCES IS NOT RECOMMENDED! ⚠️⚠️
-This program does not care if the mod/file is safe or not it will download and extract the .zip files so be sure you trust where you are getting your mods from.
+> [!WARNING]
+> # DOWNLOADING MODS FROM UNKNOWN OR UNTRUSTED SOURCES IS NOT RECOMMENDED!
+> This program does not care if the mod/file is safe or not, it will download and extract the .zip files so be sure you trust where you are getting your mods from. ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 ![header](https://github.com/user-attachments/assets/15552581-e2a0-4685-9485-26c26111b7ed)
 
